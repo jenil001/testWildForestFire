@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Other specific folders
+.virtual_documents/
+anaconda_projects/
